@@ -35,3 +35,5 @@
 - 스프링 클라우드 서비스 디스커버리와 API 게이트웨이, 회로차단기 
 - 스프링 클라우드 config
 - 스프링 클라우드 seluth, zipkin
+- 코틀린 lateinit
+- 스프링 @WebMvcTest @WebFluxTest

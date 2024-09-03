@@ -36,4 +36,6 @@
 - 스프링 클라우드 config
 - 스프링 클라우드 seluth, zipkin
 - 코틀린 lateinit
+- 코틀린 object
+- 코틀린 ``
 - 스프링 @WebMvcTest @WebFluxTest

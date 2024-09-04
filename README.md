@@ -6,16 +6,15 @@
 - 2024년 9월 2일: [스프링 TransactionSyncronization](https://github.com/hiblue02/concept-learning-daily/blob/main/%EC%8A%A4%ED%94%84%EB%A7%81.md#%EC%8A%A4%ED%94%84%EB%A7%81-transactionsynchronization)
 - 2024년 9월 3일: [카프카 오프셋](https://github.com/hiblue02/concept-learning-daily/blob/main/%EC%B9%B4%ED%94%84%EC%B9%B4.md#%EC%B9%B4%ED%94%84%EC%B9%B4-offset)
 - 2024년 9월 4일: [카프카 파티션](https://github.com/hiblue02/concept-learning-daily/blob/main/%EC%B9%B4%ED%94%84%EC%B9%B4.md#%EC%B9%B4%ED%94%84%EC%B9%B4-%ED%8C%8C%ED%8B%B0%EC%85%98)
+- 
 
 공부해야 되는 개념들....
 - 레디스 ttl
 - 레디스 분산락
 - 스프링 스케쥴드
-- 카프카 파티션
 - 카프카 리플리케이션과 ISR
 - 카프카 스트림즈 API
 - 카프카 커넥트
-- 카프카 내결함성
 - 카프카 로그 세그먼트(Log Segment)
 - 레디스 트랜잭션
 - 레디스 클러스터링

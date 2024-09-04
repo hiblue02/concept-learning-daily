@@ -5,7 +5,7 @@
 - 2024년 9월 1일: [스프링 Interceptor](https://github.com/hiblue02/concept-learning-daily/blob/main/%EC%8A%A4%ED%94%84%EB%A7%81.md#%EC%8A%A4%ED%94%84%EB%A7%81-interceptor)
 - 2024년 9월 2일: [스프링 TransactionSyncronization](https://github.com/hiblue02/concept-learning-daily/blob/main/%EC%8A%A4%ED%94%84%EB%A7%81.md#%EC%8A%A4%ED%94%84%EB%A7%81-transactionsynchronization)
 - 2024년 9월 3일: [카프카 오프셋](https://github.com/hiblue02/concept-learning-daily/blob/main/%EC%B9%B4%ED%94%84%EC%B9%B4.md#%EC%B9%B4%ED%94%84%EC%B9%B4-offset)
-
+- 2024년 9월 4일: [카프카 파티션](https://github.com/hiblue02/concept-learning-daily/blob/main/%EC%B9%B4%ED%94%84%EC%B9%B4.md#%EC%B9%B4%ED%94%84%EC%B9%B4-%ED%8C%8C%ED%8B%B0%EC%85%98)
 
 공부해야 되는 개념들....
 - 레디스 ttl

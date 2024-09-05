@@ -8,12 +8,12 @@
 - 2024년 9월 4일: [카프카 파티션](https://github.com/hiblue02/concept-learning-daily/blob/main/%EC%B9%B4%ED%94%84%EC%B9%B4.md#%EC%B9%B4%ED%94%84%EC%B9%B4-%ED%8C%8C%ED%8B%B0%EC%85%98)
 - 2024년 9월 4일: [카프카 리플리케이션, ISR](https://github.com/hiblue02/concept-learning-daily/blob/main/%EC%B9%B4%ED%94%84%EC%B9%B4.md#%EC%B9%B4%ED%94%84%EC%B9%B4-%EB%A6%AC%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EA%B3%BC-isr)
 - 2024년 9월 5일: [카프카 커넥터](https://github.com/hiblue02/concept-learning-daily/blob/main/%EC%B9%B4%ED%94%84%EC%B9%B4.md#%EC%B9%B4%ED%94%84%EC%B9%B4-%EC%BB%A4%EB%84%A5%ED%84%B0)
+
 공부해야 되는 개념들....
 - 레디스 ttl
 - 레디스 분산락
 - 스프링 스케쥴드
 - 카프카 스트림즈 API
-- 카프카 커넥트
 - 카프카 로그 세그먼트(Log Segment)
 - 레디스 트랜잭션
 - 레디스 클러스터링
@@ -36,4 +36,5 @@
 - 코틀린 lateinit
 - 코틀린 object
 - 코틀린 ``
+- 스프링 Cors/////
 - 스프링 @WebMvcTest @WebFluxTest

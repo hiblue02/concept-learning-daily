@@ -1,4 +1,4 @@
-# concept-learning-daily
+# daily-concept-learning
 하루에 개념 1개씩 학습하자! 
 
 ## 2024년 9월

@@ -10,13 +10,13 @@
 - 2024년 9월 5일: [카프카 커넥터](https://github.com/hiblue02/concept-learning-daily/blob/main/%EC%B9%B4%ED%94%84%EC%B9%B4.md#%EC%B9%B4%ED%94%84%EC%B9%B4-%EC%BB%A4%EB%84%A5%ED%84%B0)
 - 2024년 9월 6일: [카프카 스트림즈](https://github.com/hiblue02/daily-concept-learning/blob/main/%EC%B9%B4%ED%94%84%EC%B9%B4.md#%EC%B9%B4%ED%94%84%EC%B9%B4-%EC%8A%A4%ED%8A%B8%EB%A6%BC%EC%A6%88)
 - 2024년 9월 7일: [카프카 로그 세그먼트](https://github.com/hiblue02/daily-concept-learning/blob/main/%EC%B9%B4%ED%94%84%EC%B9%B4.md#%EC%B9%B4%ED%94%84%EC%B9%B4-%EB%A1%9C%EA%B7%B8-%EC%84%B8%EA%B7%B8%EB%A8%BC%ED%8A%B8log-segment)
+- 2024년 9월 8일: [스프링 스케쥴드]()
 
   
 공부해야 되는 개념들....
+- 스프링 리트라이
 - 레디스 ttl
 - 레디스 분산락
-- 스프링 스케쥴드
-- 카프카 로그 세그먼트(Log Segment)
 - 레디스 트랜잭션
 - 레디스 클러스터링
 - 레디스 파이프라이닝

@@ -18,7 +18,11 @@
 - 2024년 9월 13일: [레디스 ttl](https://github.com/hiblue02/daily-concept-learning/blob/main/%EC%8A%A4%ED%94%84%EB%A7%81_%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C.md#%EC%8A%A4%ED%94%84%EB%A7%81-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%84%9C%ED%82%B7-%EB%B8%8C%EB%A0%88%EC%9D%B4%EC%BB%A4)
 - 2024년 9월 15일: [레디스 분산락](https://github.com/hiblue02/daily-concept-learning/blob/main/%EB%A0%88%EB%94%94%EC%8A%A4.md#%EB%A0%88%EB%94%94%EC%8A%A4-%EB%B6%84%EC%82%B0%EB%9D%BD)
 - 2024년 9월 15일: [레디스 트랜잭션](https://github.com/hiblue02/daily-concept-learning/blob/main/%EB%A0%88%EB%94%94%EC%8A%A4.md#%EB%A0%88%EB%94%94%EC%8A%A4-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98)
-- 2024년 9월 15일: [레디스 클러스터링]    
+- 2024년 9월 16일: [레디스 클러스터링]    
+- 2024년 9월 17일: [레디스 영속성]
+- 2024년 9월 18일: [레디스 Sentinel]
+- 2024년 9월 19일: [레디스 발행/구독]
+
 
 공부해야 되는 개념들....
 

@@ -46,3 +46,4 @@
 - 서비스 mesh
 - 스프링 테스트컨테이너
 - 스프링 @Value, @Profile
+- lettuce 라이브러리

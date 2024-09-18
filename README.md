@@ -21,7 +21,7 @@
 - 2024년 9월 15일: [레디스 클러스터링](https://github.com/hiblue02/daily-concept-learning/blob/main/%EB%A0%88%EB%94%94%EC%8A%A4.md#redis-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81)   
 - 2024년 9월 16일: [레디스 영속성](https://github.com/hiblue02/daily-concept-learning/blob/main/%EB%A0%88%EB%94%94%EC%8A%A4.md#%EB%A0%88%EB%94%94%EC%8A%A4-%EC%98%81%EC%86%8D%EC%84%B1)
 - 2024년 9월 16일: [레디스 Sentinel](https://github.com/hiblue02/daily-concept-learning/blob/main/%EB%A0%88%EB%94%94%EC%8A%A4.md#%EB%A0%88%EB%94%94%EC%8A%A4-sentinel)
-- 2024년 9월 17일: [레디스 발행/구독]
+- 2024년 9월 17일: [레디스 발행/구독](https://github.com/hiblue02/daily-concept-learning/blob/main/%EB%A0%88%EB%94%94%EC%8A%A4.md#%EB%A0%88%EB%94%94%EC%8A%A4-%EB%B0%9C%ED%96%89%EA%B5%AC%EB%8F%85)
 - 2024년 9월 17일: [레디스 파이프라이닝]
 - 2024년 9월 18일: [스프링 시큐리티 보안 필터 체인]
 - 2024년 9월 19일: [스프링 @Async]

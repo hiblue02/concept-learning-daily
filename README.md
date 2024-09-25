@@ -27,9 +27,9 @@
 - 2024년 9월 19일: [스프링 @Async](https://github.com/hiblue02/daily-concept-learning/blob/main/%EC%8A%A4%ED%94%84%EB%A7%81.md#%EC%8A%A4%ED%94%84%EB%A7%81-async)
 - 2024년 9월 21일: [스프링 메시징](https://github.com/hiblue02/daily-concept-learning/blob/main/%EC%8A%A4%ED%94%84%EB%A7%81.md#%EC%8A%A4%ED%94%84%EB%A7%81-%EB%A9%94%EC%84%B8%EC%A7%95)
 - 2024년 9월 21일: [스프링 이벤트](https://github.com/hiblue02/daily-concept-learning/blob/main/%EC%8A%A4%ED%94%84%EB%A7%81.md#%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9D%B4%EB%B2%A4%ED%8A%B8)
+- 2024년 9월 26일: [스프링 웹플럭스](https://github.com/hiblue02/daily-concept-learning/blob/main/%EC%8A%A4%ED%94%84%EB%A7%81.md#%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9B%B9%ED%94%8C%EB%9F%AD%EC%8A%A4)
 - 2024년 9월 21일: [스프링 클라우드 config]
 - 2024년 9월 22일: [스프링 클라우드 seluth, zipkin, opentelemetery]
-- 2024년 9월 23일: [스프링 웹플럭스]
 - 2024년 9월 24일: [스프링 @WebMvcTest @WebFluxTest]
 - 2024년 9월 25일: [스프링 Cors]
 - 2024년 9월 26일: [코틀린 let]
